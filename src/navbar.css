@@ -1,0 +1,19 @@
+.root{
+    width: 90%;
+    margin: 0px auto;
+    display: flex;
+    padding-top: 2%;
+}
+.logo{
+    flex: 0.2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+
+}
+.text{
+  flex: 2;
+  color: rgb(231, 63, 63);
+  font-weight: bold;
+}

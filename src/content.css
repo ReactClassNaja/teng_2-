@@ -1,0 +1,31 @@
+.contentRoot{
+   display: flex;
+   flex-direction: column;
+}
+.header{
+    text-align: center;
+    width: 30%;
+    margin: 0px auto;
+    font-size: 60px;
+    font-weight: bold;
+}
+.paragraph{
+    width: 30%;
+    margin: 0px auto;
+    font-size: 16px;
+    text-align: center;
+    margin-top: -30px;
+    color: aqua;
+}
+.avatar{
+    display: flex;
+    justify-content: center;
+}
+.avatar img{
+    border-radius: 50px;
+    margin-right: 20px;
+}
+.avatar p{
+    font-size: 14px;
+    font-weight: bold;
+}
